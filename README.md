@@ -1,4 +1,6 @@
 #[gulp-generator](http://steelydylan.github.io/gulp-generator/)
+
+[![Join the chat at https://gitter.im/steelydylan/gulp-generator](https://badges.gitter.im/steelydylan/gulp-generator.svg)](https://gitter.im/steelydylan/gulp-generator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Recommendable for those who often forget how to write gulpfile or for those who like GUI like me!!
 
 ScreenShot
